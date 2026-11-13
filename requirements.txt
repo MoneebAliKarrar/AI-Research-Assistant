@@ -1,0 +1,13 @@
+# Direct third-party imports used by the notebook (including evaluation).
+# Unpinned: the original run did not capture a complete tested environment.
+# Ollama is a separate system installation; see README.md.
+langchain
+langchain-ollama
+langgraph
+beautifulsoup4
+ddgs
+pydantic>=2,<3
+requests
+scikit-learn
+pandas
+
